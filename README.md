@@ -4,8 +4,8 @@ Actividad calificativa de la materia introducción a Ingenieria de sistemas
 
 ## Colaboradores
 
--David galvis / 
+-David galvis / aden1523
 
--Nicolas restrepo / 
+-Nicolas restrepo / Nrj24
 
 -/ 
