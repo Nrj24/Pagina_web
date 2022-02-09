@@ -1,8 +1,8 @@
-Pagina web Ballonworld
+# Pagina web Ballonworld
 
 Actividad calificativa de la materia introducción a Ingenieria de sistemas
 
-Colaboradores
+## Colaboradores
 
 -David galvis / 
 
