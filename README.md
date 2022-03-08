@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="esp">
   <head>
     <title> INICIO </title>
