@@ -43,8 +43,8 @@
 
 ## Colaboradores
 
--David galvis / aden1523
+-David galvis / 
 
 -Nicolas restrepo / Nrj24
 
--/ 
+-Santiago giraldo/ aden1523
